@@ -1,0 +1,6 @@
+﻿  QueueSystem.cpp
+c:\users\马春阳\documents\c++\bank queuing system\bank queuing system\queuesystem.cpp(78): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  main.cpp
+  Bank Queuing System.vcxproj -> C:\Users\马春阳\Documents\C++\Bank Queuing System\x64\Debug\Bank Queuing System.exe
